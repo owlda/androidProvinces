@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Provinces</string>
+
+    <string-array name="provinces_array">
+        <item>Québec</item>
+        <item>Ontario</item>
+        <item>Manitoba</item>
+        <item>Nouvelle-Écosse</item>
+        <item>Saskatchewan</item>
+        <item>Yukon</item>
+        <item>Nunavut</item>
+        <item>Alberta</item>
+    </string-array>
+</resources>
